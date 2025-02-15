@@ -85,18 +85,4 @@ terraform-ec2/
 │── .terraform/       # Terraform dependencies (auto-generated)
 ```
 
-## Future Enhancements
-
-- Add security group configurations
-- Enable key pair authentication
-- Integrate IAM roles for better access management
-- Implement auto-scaling and load balancing
-
-## Author
-
-**Omkar Rajeking**
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
